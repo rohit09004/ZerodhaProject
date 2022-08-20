@@ -1,0 +1,2 @@
+# ZerodhaProject
+reagrding scripts
